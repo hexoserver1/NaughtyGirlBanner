@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/Erisa/NaughtyGirlBanner)](https://repl.it/github/Erisa/NaughtyGirlBanner)
+
 # NaughtyGirlBanner
 Simple anti-raid bot for Discord. Made for a specific use-case.
 
